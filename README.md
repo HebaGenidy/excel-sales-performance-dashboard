@@ -49,8 +49,7 @@ This project features an interactive **Sales Performance Executive Dashboard** b
 ---
 
 ## 💻 Dashboard Preview
-![Sales Performance Dashboard](<img width="1867" height="641" alt="image" src="https://github.com/user-attachments/assets/ea60b482-ef31-4576-8238-bf655abd58a8" />
-)
+![Sales Performance Dashboard](C:\Users\Heba\Pictures\Screenshots\Screenshot 2026-10-26 201340.png)
 
 ---
 
