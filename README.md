@@ -48,12 +48,6 @@ This project features an interactive **Sales Performance Executive Dashboard** b
 
 ---
 
-## 💻 Dashboard Preview
-![Sales Performance Dashboard](<img width="1867" height="641" alt="Dashboard" src="https://github.com/user-attachments/assets/3ce18627-983c-45b8-8de5-78e232e89ab9" />
-)
-
----
-
 ## 🚀 How to Interact with the File
 1. Download the `.xlsx` workbook from this repository.
 2. Open the file in Microsoft Excel.
